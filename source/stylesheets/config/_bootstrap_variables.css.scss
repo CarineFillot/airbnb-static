@@ -11,9 +11,14 @@ $line-height-base:        $base-height;
 $headings-font-family:    $header-font;
 
 // Semantic color scheme
-$brand-primary:   $blue;
+
+// $brand-primary:   $blue;
+$brand-primary: $bluetac;
 $brand-success:   $green;
-$brand-info:      $yellow;
+
+// $brand-info:      $yellow;
+$brand-info:  $yellowtac;
+
 $brand-danger:    $red;
 $brand-warning:   $orange;
 
